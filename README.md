@@ -64,6 +64,9 @@ resources/views/
 ├── custom-fields/
 └── layouts/
 
+db_new/
+|___ intricare_dbs.sql
+
 
 public/uploads/
 routes/web.php
