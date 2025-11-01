@@ -78,7 +78,7 @@ routes/web.php
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/jitendrav516/crud_implement.git
 cd repo-name
 
 composer install
